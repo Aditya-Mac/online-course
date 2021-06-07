@@ -27,3 +27,5 @@ its online course practice
     * Onions
 
 [Google](https://www.google.co.in/)
+
+![Tajmahal](https://cdn.britannica.com/86/170586-050-AB7FEFAE/Taj-Mahal-Agra-India.jpg)
