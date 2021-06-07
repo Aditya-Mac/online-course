@@ -15,7 +15,7 @@ its online course practice
 ***this is both bold and italic***
 
 1. Fruits
-  1. Mangoes
-  2. Oranges
-  3. Apples
-  4. Bananas
+    1. Mangoes
+    2. Oranges
+    3. Apples
+    4. Bananas
