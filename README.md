@@ -19,3 +19,9 @@ its online course practice
     2. Oranges
     3. Apples
     4. Bananas
+
+* Vegetables
+    * Tomatoes
+    * Potatoes
+    * Spinach
+    * Onions
