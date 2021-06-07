@@ -13,3 +13,9 @@ its online course practice
 *This is italic type of font style*
 ***bold and itali***
 ***this is both bold and italic***
+
+1. Fruits
+  1. Mangoes
+  2. Oranges
+  3. Apples
+  4. Bananas
